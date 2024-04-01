@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center"> <img src="https://metrics.lecoq.io/rain-under-sky?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!--
 **rain-under-sky/rain-under-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
