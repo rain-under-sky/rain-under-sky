@@ -1,13 +1,5 @@
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rain-under-sky&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rain-under-sky&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rain-under-sky&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rain-under-sky&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </table>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-under-sky&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
