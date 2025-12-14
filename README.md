@@ -7,11 +7,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:3498db&height=250&section=header&text=Welcome%20to%20My%20Digital%20Workshop&fontSize=70&fontColor=ffffff&fontAlignY=35" alt="Header" />
 
-  ### 👋 Hi there! I'm a Developer & Maker.
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Expert;Deep+Learning+%26+RL+Researcher;Vue.js+Frontend+Developer;Indie+Game+Lover+%26+3D+Printing+Maker" alt="Typing SVG" />
-  </a>
+### 👋 Hi there! I'm a Developer & Maker.
 
   <br/>
 
@@ -20,7 +16,6 @@
     <br/>
     当我不写代码时，我通常在调试 <b>3D 打印机</b>，或者沉浸在<b>独立游戏</b>的世界里寻找灵感。
     <br/>
-    <i>"Turning coffee into code and plastic filament into reality."</i>
   </p>
 
 </div>
@@ -39,49 +34,28 @@
 
 </div>
 
-<br/>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 Side Quests (副本与爱好)</h3>
-      <ul>
-        <li>
-          <b>🤖 3D 打印工匠</b>
-          <br/>正在折腾: <i>Voron / Bambu Lab / Ender</i> (根据实际修改)
-          <br/>目标: 打印满一整面墙的模型。
-        </li>
-        <li>
-          <b>🕹️ 独立游戏鉴赏家</b>
-          <br/>最爱类型: <i>Roguelike, Metroidvania, Puzzle</i>
-          <br/>最近在玩: <i>Hades, Hollow Knight, Celeste</i> (填你喜欢的)
-        </li>
-        <li>
-          <b>🧠 强化学习实验室</b>
-          <br/>目前专注于: <i>Agent Training / Computer Vision</i>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Power Level (数据面板)</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-    </td>
-  </tr>
-</table>
+
+## 🎮 Side Quests (副本与爱好)
+🤖 3D 打印工匠
+正在折腾: <i>Bambu Lab</i> 
+目标: 打印满一整面墙的模型。
+
+🕹️ 独立游戏鉴赏家
+最近在玩: <i>Hades, Hollow Knight, Celeste 
+        
+🧠 强化学习实验室
+目前专注于: <i>Agent Training / Computer Vision</i>
 
 <br/>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-under-sky&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 
-  <br/><br/>
-  
-  <a href="mailto:你的邮箱@example.com">
+  HBUT 研一在读
+  <a href="mailto:2598606470@qq.com">
     <img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://你的博客链接.com">
-    <img src="https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
   </a>
 
 </div>
