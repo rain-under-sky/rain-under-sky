@@ -45,7 +45,7 @@
 最近在玩: <i>Hades, Hollow Knight, Celeste 
         
 🧠 强化学习实验室
-目前专注于: <i>Agent Training / Computer Vision</i>
+目前专注于:<i>Agent Training /Deep Learning </i>
 
 <br/>
 
