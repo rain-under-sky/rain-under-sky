@@ -37,14 +37,11 @@
 
 
 ## 🎮 Side Quests (副本与爱好)
-🤖 3D 打印工匠
+🤖 3D 打印工匠<br/>
 正在折腾: <i>Bambu Lab</i> 
 目标: 打印满一整面墙的模型。
-
-🕹️ 独立游戏鉴赏家
-最近在玩: <i>Hades, Hollow Knight, Celeste 
         
-🧠 强化学习实验室
+🧠 强化学习实验室<br/>
 目前专注于:<i>Agent Training /Deep Learning </i>
 
 <br/>
