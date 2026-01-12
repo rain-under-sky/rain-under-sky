@@ -17,9 +17,6 @@
 
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-under-sky&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-
   HBUT 研一在读
   <a href="mailto:2598606470@qq.com">
     <img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
