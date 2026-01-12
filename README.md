@@ -3,25 +3,6 @@
 </table>
 
 
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:3498db&height=250&section=header&text=Welcome%20to%20My%20Digital%20Workshop&fontSize=70&fontColor=ffffff&fontAlignY=35" alt="Header" />
-
-### 👋 Hi there! I'm a Developer & Maker.
-
-  <br/>
-
-  <p>
-    我是一名热衷于构建<b>智能系统</b>的全栈开发者。
-    <br/>
-    当我不写代码时，我通常在调试 <b>3D 打印机</b>，或者沉浸在<b>独立游戏</b>的世界里寻找灵感。
-    <br/>
-  </p>
-
-</div>
-
-<br/>
-
 ### 🛠️ Character Stats (技能树)
 
 <div align="center">
@@ -35,17 +16,6 @@
 </div>
 
 
-
-## 🎮 Side Quests (副本与爱好)
-🤖 3D 打印工匠<br/>
-正在折腾: <i>Bambu Lab</i> 
-目标: 打印满一整面墙的模型。
-        
-🧠 强化学习实验室<br/>
-目前专注于:<i>Agent Training /Deep Learning </i>
-
-<br/>
-
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-under-sky&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
@@ -56,17 +26,3 @@
   </a>
 
 </div>
-<!--
-**rain-under-sky/rain-under-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
