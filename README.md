@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  HBUT 研一在读
+  HBUT 研二在读
   <a href="mailto:2598606470@qq.com">
     <img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
